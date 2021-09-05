@@ -1,14 +1,12 @@
 ### Olá! Eu sou o Brunno Miguel
 
-- 🔭 Hoje trabalho como Agente Administrativo, mas em mudança de carreira
+- 🔭 Hoje trabalho como Agente Administrativo, mas, estou em processo de mudança de carreira
 - 🌱 Estudando Desenvolvimento Front-End
-- 📫 Contate-me no email: contatobrunnomiguel@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/brunnomiguel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunnomiguel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnomiguel&layout=compact&langs_count=16&theme=radical"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=brunnomiguel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnomiguel&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
