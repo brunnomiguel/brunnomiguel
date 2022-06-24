@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Brunno Miguel
 
-- 🔭 Atuo como Agente Administrativo, mas, estou em processo de mudança de carreira para a área de tecnologia.
-- 🌱 Estudando Desenvolvimento Front-End na Kenzie Academy Brasil
+- 🔭 Aluno da Kenzie Academy Brasil
+- 🔭 Desenvolvedor Front End React
 
 <div>
   <a href="https://github.com/brunnomiguel">
