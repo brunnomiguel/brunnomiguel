@@ -1,5 +1,5 @@
-### Olá! Sejam bem vindos(as)
-## Eu sou Brunno Miguel
+## Olá! Sejam bem vindos(as)
+### Eu sou Brunno Miguel
 
 - 🔭 Aluno da Kenzie Academy Brasil
 - 🔭 Desenvolvedor Front End React
