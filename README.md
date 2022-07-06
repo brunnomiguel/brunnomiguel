@@ -1,4 +1,4 @@
-### Olá! Eu sou o Brunno Miguel
+### Olá! Sejam bem vindos(as)
 
 - 🔭 Aluno da Kenzie Academy Brasil
 - 🔭 Desenvolvedor Front End React
