@@ -1,26 +1,33 @@
-## Olá! Sejam bem vindos(as)
-### Eu sou Brunno Miguel
+<h1 align="center">Sejam bem vindos(as)</h1>
+<h2 align="center">Meu nome é Brunno Miguel</h2>
 
-- 🔭 Aluno da Kenzie Academy Brasil
-- 🔭 Desenvolvedor Front End React
+<p align="center">
+   Sou um Desenvolvedor Web Front End, apaixonado por tecnologia e também por resolver problemas
+</p>
+
+<p align="center">Você pode me encontrar:</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/brunno-miguel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</div>
+
+##
 
 <div>
   <a href="https://github.com/brunnomiguel">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=brunnomiguel&show_icons=true&theme=radical&include_all_commits=true&count_private=true,https://github.com/anuraghazra/github-readme-stats"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnomiguel&layout=compact&langs_count=16&theme=radical"/>
 </div>
+  
+## 🔧 Technologies & Tools
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="BMiguel-HTML" height="30" width="40" src="http://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="BMiguel-CSS" height="30" width="40" src="http://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="BMiguel-JS" height="30" width="40" src="http://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="BMiguel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="BMiguel-Python" height="30" width="40" src="http://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="BMiguel-Typescript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</div>
-  
-##
-  
-<div>
-  <a href="https://www.linkedin.com/in/brunno-miguel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</div>
+|     | Stacks | Description |
+| --- | --- | --- |
+|**Highlighter**|  <img height='35px' src="https://skillicons.dev/icons?i=html,md&theme=light"  alt="HTLM, Markdown"/>| HTML, Markdown |
+|**Styles**|  <img height='35px'  src="https://skillicons.dev/icons?i=css,materialui,styledcomponents" /> <img height="35px" src="https://ia802807.us.archive.org/24/items/github.com-chakra-ui-chakra-ui_-_2020-02-13_17-20-29/cover.jpg"/> | Css, MaterialUI, StyledComponents, ChakraUI |
+|**Languages**|  <img height='35px'  src="https://skillicons.dev/icons?i=js,ts"/>| JavaScript, TypeScript |
+|**Frameworks/Libraries**|  <img height='35px'  src="https://skillicons.dev/icons?i=react,redux,nodejs,nextjs"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" height="35px" />| React, Redux, NextJs, nodeJs, Jest |
+|**Package Managers**|  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" height="35px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" height="35px" />| Npm, Yarn |
+|**Tools**|  <img height='35px'  src="https://skillicons.dev/icons?i=git,github"/> <img height="35px" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" /> <img height="35px" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" /> | Git, Github, EsLint Insomnia |
+|**Deploy**|  <img height='35px'  src="https://skillicons.dev/icons?i=heroku"/> <img height='35px' src="https://raw.githubusercontent.com/smilly3D/smilly3D/b99342846de2b44a4092a04dfb9130d2d1d70c66/assets/vercel.svg" />| Heroku, Vercel |
+|**Mockups**|  <img height='35px'  src="https://skillicons.dev/icons?i=figma"/>| Figma |
