@@ -8,8 +8,8 @@
 <p align="center">Você pode me encontrar:</p>
 
 <div align="center">
-  <a href="https://github.com/brunnomiguel/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunnomiguel&repo=github-readme-stats" />
+  <a href="https://linkedin.com/in/brunno-miguel">
+  <img align="center" src="" />
 </a>
 </div>
 
