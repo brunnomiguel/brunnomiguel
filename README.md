@@ -8,7 +8,9 @@
 <p align="center">Você pode me encontrar:</p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/brunno-miguel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://github.com/brunnomiguel/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunnomiguel&repo=github-readme-stats" />
+</a>
 </div>
 
 ##
