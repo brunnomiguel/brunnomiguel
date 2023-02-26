@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/brunno-miguel">
-  <img align="center" src="" />
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </div>
 
