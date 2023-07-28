@@ -2,7 +2,7 @@
 <h2 align="center">Meu nome é Brunno Miguel</h2>
 
 <p align="center">
-   Sou um Desenvolvedor Web Front End, apaixonado por tecnologia e também por resolver problemas
+   Sou um Desenvolvedor Front-End, focado em resolver problemas e ajudar pessoas usando a tecnologia como ferramenta.
 </p>
 
 <p align="center">Você pode me encontrar:</p>
