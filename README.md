@@ -17,8 +17,8 @@
 
 <div width="100%" align="justify">
   <a href="https://github.com/brunnomiguel" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunnomiguel&show_icons=true&count_private=true&theme=dracula&hide=issues"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnomiguel&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunnomiguel&show_icons=true&count_private=true&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnomiguel&layout=compact&theme=dracula"/>
 </div>
   
 ## 🔧 Technologies & Tools
