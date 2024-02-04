@@ -6,7 +6,7 @@ Tenho um pouco mais de 2 anos nessa área, e nesse período tive a oportunidade 
 
 <h1>🚀 Experiência</h1>
 
-Através de minha formação de 1 ano na Kenzie Academy Brasil, trabalhei por um pouco mais de 1 ano no desenvolvimento da Startup PlayDrop, onde desenvolvi ainda mais minhas habilidades como desenvolvedor front end, pois fui o líder encarregado do desenvolvimento de todo o front end da plataforma, utilizando diversas tecnologias, frameworks modernos, padrões e melhores práticas.
+Após a minha formação de 1 ano na Kenzie Academy Brasil, trabalhei por um pouco mais de 1 ano no desenvolvimento da Startup PlayDrop, onde desenvolvi ainda mais minhas habilidades como desenvolvedor front end, pois fui o líder encarregado do desenvolvimento de todo o front end da plataforma, utilizando diversas tecnologias, frameworks modernos, padrões e melhores práticas.
 <br />
 
 Após o desenvolvimento da PlayDrop também tive a oportunidade de auxiliar no desenvolvimento front end de outra startup, o app Rapidinho Delivery, assim como o outro projeto, auxiliei no desenvolvimento da interface e também nas integrações e comunicação com back end. 
