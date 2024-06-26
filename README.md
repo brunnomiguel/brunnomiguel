@@ -1,31 +1,18 @@
-<h1>👋 Olá</h1>
+# 👋 Olá, sou Brunno Miguel
 
-Me chamo Brunno Miguel, sou um Desenvolvedor de Software em busca de novos desafios e conhecimentos.
-<br />
-Tenho um pouco mais de 2 anos nessa área, e nesse período tive a oportunidade de trabalhar em projetos incríveis que agregaram demais para o meu desenvolvimento pessoal e profissional.
+Desenvolvedor de Software com mais de 2 anos de experiência, sempre em busca de novos desafios e conhecimentos.
 
-<h1>🚀 Experiência</h1>
+## 🚀 Experiência
 
-Após a minha formação de 1 ano na Kenzie Academy Brasil, trabalhei por um pouco mais de 1 ano no desenvolvimento da Startup PlayDrop, onde desenvolvi ainda mais minhas habilidades como desenvolvedor front end, pois fui o líder encarregado do desenvolvimento de todo o front end da plataforma, utilizando diversas tecnologias, frameworks modernos, padrões e melhores práticas.
-<br />
+- **Kenzie Academy Brasil:** Formação intensiva de 1 ano.
+- **PlayDrop:** Líder de desenvolvimento front-end, utilizando tecnologias e frameworks modernos.
+- **Rapidinho Delivery:** Desenvolvimento de interfaces e integração com back-end.
 
-Após o desenvolvimento da PlayDrop também tive a oportunidade de auxiliar no desenvolvimento front end de outra startup, o app Rapidinho Delivery, assim como o outro projeto, auxiliei no desenvolvimento da interface e também nas integrações e comunicação com back end. 
-<br />
+## 🌐 Conecte-se comigo
 
-Atualmente abracei também o desenvolvimento back end, utilizando tecnologias como Node JS, Express / Fastify, bancos de dados com Prisma, SQLite / PostgreeSQL, estou desenvolvendo uma plataforma pessoal de e-commerce para uma artesã, desde o back end ao front end.
-<br />
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunno-miguel)
 
-Estou desenvolvendo uma aplicação web para utilização em uma Secretaria de Saúde, um projeto de Controle de viagens intermunicipais, estou desenvolvendo o MVP para assim poder apresentar quando estiver concluído. Também estou desenvolvendo desde o back end ao front end. utilizando as melhores tecnologias em utilização no mercado, e utilizando as melhores práticas de desenvolvimento.
-
-<h3>🌐 Minha principal rede em utilização:</h3>
-
-<div>
-  <a href="https://linkedin.com/in/brunno-miguel" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>
-
-## 🔧 Technologies & Tools
+## 🔧 Tecnologias e Ferramentas
 
 |     | Stacks | Description |
 | --- | --- | --- |
